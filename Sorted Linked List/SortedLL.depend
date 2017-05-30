@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1415867591 source:d:\sortedll\slinkedlist.cpp
+	"sLinkedList.h"
+	<iostream>
+
+1415867579 d:\sortedll\slinkedlist.h
+
+1415867638 source:d:\sortedll\main.cpp
+	<iostream>
+	"sLinkedList.h"
+	"sLinkedList.cpp"
+
+1415867591 d:\sortedll\slinkedlist.cpp
+	"sLinkedList.h"
+	<iostream>
+
+1415867640 source:c:\users\r.i.nahian\desktop\cse225 code\sorted linked list\main.cpp
+	<iostream>
+	"sLinkedList.h"
+	"sLinkedList.cpp"
+
+1415867580 c:\users\r.i.nahian\desktop\cse225 code\sorted linked list\slinkedlist.h
+
+1415867592 c:\users\r.i.nahian\desktop\cse225 code\sorted linked list\slinkedlist.cpp
+	"sLinkedList.h"
+	<iostream>
+
+1415867592 source:c:\users\r.i.nahian\desktop\cse225 code\sorted linked list\slinkedlist.cpp
+	"sLinkedList.h"
+	<iostream>
+
+1415867640 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\sorted linked list\main.cpp
+	<iostream>
+	"sLinkedList.h"
+	"sLinkedList.cpp"
+
+1415867580 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\sorted linked list\slinkedlist.h
+
+1415867592 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\sorted linked list\slinkedlist.cpp
+	"sLinkedList.h"
+	<iostream>
+
+1415867592 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\sorted linked list\slinkedlist.cpp
+	"sLinkedList.h"
+	<iostream>
+

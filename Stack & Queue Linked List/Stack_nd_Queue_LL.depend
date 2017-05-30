@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1395215476 source:c:\documents and settings\administrator\my documents\stack_nd_queue_ll\stack.cpp
+	"stack.h"
+	<iostream>
+
+1395215004 c:\documents and settings\administrator\my documents\stack_nd_queue_ll\stack.h
+
+1395216997 source:c:\documents and settings\administrator\my documents\stack_nd_queue_ll\main.cpp
+	<iostream>
+	"stack.h"
+	"stack.cpp"
+	"queue.h"
+	"queue.cpp"
+
+1395215476 c:\documents and settings\administrator\my documents\stack_nd_queue_ll\stack.cpp
+	"stack.h"
+	<iostream>
+
+1395217796 source:c:\documents and settings\administrator\my documents\stack_nd_queue_ll\queue.cpp
+	"queue.h"
+	<iostream>
+
+1395216133 c:\documents and settings\administrator\my documents\stack_nd_queue_ll\queue.h
+
+1395217796 c:\documents and settings\administrator\my documents\stack_nd_queue_ll\queue.cpp
+	"queue.h"
+	<iostream>
+
+1395216998 source:e:\back up 2014\desktop\class work\spring 2014\cse 225\lab problems\lab 7,8 (stack_nd_queue_ll)\main.cpp
+	<iostream>
+	"stack.h"
+	"stack.cpp"
+	"queue.h"
+	"queue.cpp"
+
+1395215006 e:\back up 2014\desktop\class work\spring 2014\cse 225\lab problems\lab 7,8 (stack_nd_queue_ll)\stack.h
+
+1395215478 e:\back up 2014\desktop\class work\spring 2014\cse 225\lab problems\lab 7,8 (stack_nd_queue_ll)\stack.cpp
+	"stack.h"
+	<iostream>
+
+1395216134 e:\back up 2014\desktop\class work\spring 2014\cse 225\lab problems\lab 7,8 (stack_nd_queue_ll)\queue.h
+
+1395217798 e:\back up 2014\desktop\class work\spring 2014\cse 225\lab problems\lab 7,8 (stack_nd_queue_ll)\queue.cpp
+	"queue.h"
+	<iostream>
+
+1395217798 source:e:\back up 2014\desktop\class work\spring 2014\cse 225\lab problems\lab 7,8 (stack_nd_queue_ll)\queue.cpp
+	"queue.h"
+	<iostream>
+
+1395215478 source:e:\back up 2014\desktop\class work\spring 2014\cse 225\lab problems\lab 7,8 (stack_nd_queue_ll)\stack.cpp
+	"stack.h"
+	<iostream>
+
+1395216998 source:e:\lecture sheet collection\cse225 lab iha\old document\sohan\lab 7,8 (stack_nd_queue_ll)\main.cpp
+	<iostream>
+	"stack.h"
+	"stack.cpp"
+	"queue.h"
+	"queue.cpp"
+
+1395215006 e:\lecture sheet collection\cse225 lab iha\old document\sohan\lab 7,8 (stack_nd_queue_ll)\stack.h
+
+1395215478 e:\lecture sheet collection\cse225 lab iha\old document\sohan\lab 7,8 (stack_nd_queue_ll)\stack.cpp
+	"stack.h"
+	<iostream>
+
+1395216134 e:\lecture sheet collection\cse225 lab iha\old document\sohan\lab 7,8 (stack_nd_queue_ll)\queue.h
+
+1395217798 e:\lecture sheet collection\cse225 lab iha\old document\sohan\lab 7,8 (stack_nd_queue_ll)\queue.cpp
+	"queue.h"
+	<iostream>
+
+1395217798 source:e:\lecture sheet collection\cse225 lab iha\old document\sohan\lab 7,8 (stack_nd_queue_ll)\queue.cpp
+	"queue.h"
+	<iostream>
+
+1395215478 source:e:\lecture sheet collection\cse225 lab iha\old document\sohan\lab 7,8 (stack_nd_queue_ll)\stack.cpp
+	"stack.h"
+	<iostream>
+
+1395216998 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\stack_nd_queue_ll\main.cpp
+	<iostream>
+	"stack.h"
+	"stack.cpp"
+	"queue.h"
+	"queue.cpp"
+
+1395215006 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\stack_nd_queue_ll\stack.h
+
+1395215478 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\stack_nd_queue_ll\stack.cpp
+	"stack.h"
+	<iostream>
+
+1395216134 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\stack_nd_queue_ll\queue.h
+
+1395217798 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\stack_nd_queue_ll\queue.cpp
+	"queue.h"
+	<iostream>
+
+1395217798 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\stack_nd_queue_ll\queue.cpp
+	"queue.h"
+	<iostream>
+
+1395215478 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\stack_nd_queue_ll\stack.cpp
+	"stack.h"
+	<iostream>
+

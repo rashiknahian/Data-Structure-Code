@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1361378068 source:c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\sortedtype\sortedtype.cpp
+	"SortedType.h"
+
+1361286408 c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\sortedtype\sortedtype.h
+	"ItemType.h"
+
+1361284874 c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\sortedtype\itemtype.h
+	<iostream>
+
+1371564502 source:c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\sortedtype\main.cpp
+	"SortedType.h"
+
+1361284924 source:c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\sortedtype\itemtype.cpp
+	"ItemType.h"
+
+1361284924 source:c:\users\r.i.nahian\desktop\new folder\!!!!!!!!!!!!!!!!!!!!\sortedtype\itemtype.cpp
+	"ItemType.h"
+
+1361284874 c:\users\r.i.nahian\desktop\new folder\!!!!!!!!!!!!!!!!!!!!\sortedtype\itemtype.h
+	<iostream>
+
+1414001808 source:c:\users\r.i.nahian\desktop\new folder\!!!!!!!!!!!!!!!!!!!!\sortedtype\main.cpp
+	"SortedType.h"
+
+1361286408 c:\users\r.i.nahian\desktop\new folder\!!!!!!!!!!!!!!!!!!!!\sortedtype\sortedtype.h
+	"ItemType.h"
+
+1361378068 source:c:\users\r.i.nahian\desktop\new folder\!!!!!!!!!!!!!!!!!!!!\sortedtype\sortedtype.cpp
+	"SortedType.h"
+
+1361284924 source:g:\lab 3\sortedtype\itemtype.cpp
+	"ItemType.h"
+
+1361284874 g:\lab 3\sortedtype\itemtype.h
+	<iostream>
+
+1414002176 source:g:\lab 3\sortedtype\main.cpp
+	"SortedType.h"
+
+1361286408 g:\lab 3\sortedtype\sortedtype.h
+	"ItemType.h"
+
+1361378068 source:g:\lab 3\sortedtype\sortedtype.cpp
+	"SortedType.h"
+
+1361284924 source:f:\lab 3\sortedtype\itemtype.cpp
+	"ItemType.h"
+
+1361284874 f:\lab 3\sortedtype\itemtype.h
+	<iostream>
+
+1414002176 source:f:\lab 3\sortedtype\main.cpp
+	"SortedType.h"
+
+1361286408 f:\lab 3\sortedtype\sortedtype.h
+	"ItemType.h"
+
+1361378068 source:f:\lab 3\sortedtype\sortedtype.cpp
+	"SortedType.h"
+
+1361284924 source:f:\24oct\lab 3\sortedtype\itemtype.cpp
+	"ItemType.h"
+
+1361284874 f:\24oct\lab 3\sortedtype\itemtype.h
+	<iostream>
+
+1414002176 source:f:\24oct\lab 3\sortedtype\main.cpp
+	"SortedType.h"
+
+1361286408 f:\24oct\lab 3\sortedtype\sortedtype.h
+	"ItemType.h"
+
+1361378068 source:f:\24oct\lab 3\sortedtype\sortedtype.cpp
+	"SortedType.h"
+
+1361284924 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\sortedtype\itemtype.cpp
+	"ItemType.h"
+
+1361284874 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\sortedtype\itemtype.h
+	<iostream>
+
+1414002176 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\sortedtype\main.cpp
+	"SortedType.h"
+
+1361286408 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\sortedtype\sortedtype.h
+	"ItemType.h"
+
+1361378068 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\sortedtype\sortedtype.cpp
+	"SortedType.h"
+

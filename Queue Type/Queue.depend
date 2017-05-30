@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1374601869 source:c:\users\vadar\documents\codes\queuetype\main.cpp
+	<iostream>
+	"QueueType.h"
+
+1375315958 .h"
+
+1374601885 c:\users\vadar\documents\codes\queuetype\queuetype.h
+	<iostream>
+	"QueueType.cpp"
+
+1374601886 .cpp"
+
+1375315956 c:\users\vadar\documents\codes\queuetype\queuetype.cpp
+	"QueueType.h"
+
+1375315956 source:c:\users\vadar\documents\codes\queuetype\queuetype.cpp
+	"QueueType.h"
+
+1374601869 source:c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\queuetype\main.cpp
+	<iostream>
+	"QueueType.h"
+
+1374601885 c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\queuetype\queuetype.h
+	<iostream>
+	"QueueType.cpp"
+
+1375315956 c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\queuetype\queuetype.cpp
+	"QueueType.h"
+
+1375315956 source:c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\queuetype\queuetype.cpp
+	"QueueType.h"
+
+1374601869 source:e:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\queuetype\main.cpp
+	<iostream>
+	"QueueType.h"
+
+1374601885 e:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\queuetype\queuetype.h
+	<iostream>
+	"QueueType.cpp"
+
+1375315956 e:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\queuetype\queuetype.cpp
+	"QueueType.h"
+
+1375315956 source:e:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\queuetype\queuetype.cpp
+	"QueueType.h"
+
+1374601870 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\queuetype\main.cpp
+	<iostream>
+	"QueueType.h"
+
+1374601886 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\queuetype\queuetype.h
+	<iostream>
+	"QueueType.cpp"
+
+1375315958 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\queuetype\queuetype.cpp
+	"QueueType.h"
+
+1375315958 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\queuetype\queuetype.cpp
+	"QueueType.h"
+
+1422469108 source:/Users/rashik.nahian/Downloads/CSE225 code of IHA/Code till Mid/QueueType/main.cpp
+	<iostream>
+	"QueueType.h"
+
+1422469126 /Users/rashik.nahian/Downloads/CSE225 code of IHA/Code till Mid/QueueType/QueueType.h
+	<iostream>
+	"QueueType.cpp"
+
+1422469122 /Users/rashik.nahian/Downloads/CSE225 code of IHA/Code till Mid/QueueType/QueueType.cpp
+	"QueueType.h"
+
+1422469122 source:/Users/rashik.nahian/Downloads/CSE225 code of IHA/Code till Mid/QueueType/QueueType.cpp
+	"QueueType.h"
+

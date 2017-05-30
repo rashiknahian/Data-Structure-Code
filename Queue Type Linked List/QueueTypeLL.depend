@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1374605922 source:e:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\queuetypell\main.cpp
+	<iostream>
+	"QueueTypeLL.h"
+
+1374605626 e:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\queuetypell\queuetypell.h
+	<iostream>
+	<cstddef>
+	"QueueTypeLL.cpp"
+
+1374605626 e:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\queuetypell\queuetypell.cpp
+	"QueueTypeLL.h"
+
+1374605626 source:e:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\queuetypell\queuetypell.cpp
+	"QueueTypeLL.h"
+
+1374605924 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\queuetypell\main.cpp
+	<iostream>
+	"QueueTypeLL.h"
+
+1374605626 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\queuetypell\queuetypell.h
+	<iostream>
+	<cstddef>
+	"QueueTypeLL.cpp"
+
+1374605626 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\queuetypell\queuetypell.cpp
+	"QueueTypeLL.h"
+
+1374605626 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\queuetypell\queuetypell.cpp
+	"QueueTypeLL.h"
+

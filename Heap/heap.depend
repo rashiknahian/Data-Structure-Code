@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1376871896 source:c:\documents and settings\administrator\desktop\heap\heap.cpp
+	"heap.h"
+
+1377070974 c:\documents and settings\administrator\desktop\heap\heap.h
+	"heap.cpp"
+
+1376871896 c:\documents and settings\administrator\desktop\heap\heap.cpp
+	"heap.h"
+
+1377071134 source:c:\users\vadar\documents\codes\heap\heap\main.cpp
+	<iostream>
+	"priorityQueue.h"
+
+1377071126 c:\users\vadar\documents\codes\heap\heap\priorityqueue.h
+	"heap.h"
+	"priorityQueue.cpp"
+
+1377071110 c:\users\vadar\documents\codes\heap\heap\heap.h
+	"heap.cpp"
+
+1377071098 c:\users\vadar\documents\codes\heap\heap\heap.cpp
+	"heap.h"
+
+1377071118 c:\users\vadar\documents\codes\heap\heap\priorityqueue.cpp
+	"priorityQueue.h"
+
+1377071134 source:f:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\heap\heap\main.cpp
+	<iostream>
+	"priorityQueue.h"
+
+1377071126 f:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\heap\heap\priorityqueue.h
+	"heap.h"
+	"priorityQueue.cpp"
+
+1377071110 f:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\heap\heap\heap.h
+	"heap.cpp"
+
+1377071098 f:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\heap\heap\heap.cpp
+	"heap.h"
+
+1377071118 f:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\heap\heap\priorityqueue.cpp
+	"priorityQueue.h"
+

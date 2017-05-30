@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1371456547 source:e:\1220697042\unsortedtype\itemtype.cpp
+	"ItemType.h"
+
+1371458194 e:\1220697042\unsortedtype\itemtype.h
+	<iostream>
+
+1371458519 source:e:\1220697042\unsortedtype\unsortedtype.cpp
+	"UnsortedType.h"
+
+1371458486 e:\1220697042\unsortedtype\unsortedtype.h
+	"ItemType.h"
+
+1371459034 source:c:\users\vadar\documents\codes\unsortedtype\driver.cpp
+	<iostream>
+	"ItemType.h"
+	"UnsortedType.h"
+
+1371458194 c:\users\vadar\documents\codes\unsortedtype\itemtype.h
+	<iostream>
+
+1371458486 c:\users\vadar\documents\codes\unsortedtype\unsortedtype.h
+	"ItemType.h"
+
+1371456547 source:c:\users\vadar\documents\codes\unsortedtype\itemtype.cpp
+	"ItemType.h"
+
+1371458519 source:c:\users\vadar\documents\codes\unsortedtype\unsortedtype.cpp
+	"UnsortedType.h"
+
+1371459034 source:e:\lecture sheet collection\cse225l mle\codes of cse225\unsortedtype\driver.cpp
+	<iostream>
+	"ItemType.h"
+	"UnsortedType.h"
+
+1371458194 e:\lecture sheet collection\cse225l mle\codes of cse225\unsortedtype\itemtype.h
+	<iostream>
+
+1371458486 e:\lecture sheet collection\cse225l mle\codes of cse225\unsortedtype\unsortedtype.h
+	"ItemType.h"
+
+1371456546 source:e:\lecture sheet collection\cse225l mle\codes of cse225\unsortedtype\itemtype.cpp
+	"ItemType.h"
+
+1371458518 source:e:\lecture sheet collection\cse225l mle\codes of cse225\unsortedtype\unsortedtype.cpp
+	"UnsortedType.h"
+
+1371459034 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\unsortedtype\driver.cpp
+	<iostream>
+	"ItemType.h"
+	"UnsortedType.h"
+
+1371458194 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\unsortedtype\itemtype.h
+	<iostream>
+
+1371458486 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\unsortedtype\unsortedtype.h
+	"ItemType.h"
+
+1371456546 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\unsortedtype\itemtype.cpp
+	"ItemType.h"
+
+1371458518 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\unsortedtype\unsortedtype.cpp
+	"UnsortedType.h"
+

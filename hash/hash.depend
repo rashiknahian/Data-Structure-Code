@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1417684841 source:d:\hash\hash.cpp
+	"hash.h"
+	<math.h>
+	<iostream>
+
+1417684829 d:\hash\hash.h
+
+1417684842 source:h:\lab code 225 done by me\hash\hash.cpp
+	"hash.h"
+	<math.h>
+	<iostream>
+
+1417684830 h:\lab code 225 done by me\hash\hash.h
+
+1417684974 source:h:\lab code 225 done by me\hash\main.cpp
+	<iostream>
+	"hash.h"
+	"hash.cpp"
+
+1417684842 h:\lab code 225 done by me\hash\hash.cpp
+	"hash.h"
+	<math.h>
+	<iostream>
+
+1417684842 source:e:\new folder\new folder (3)\cse225 code for lab final\hash\hash.cpp
+	"hash.h"
+	<math.h>
+	<iostream>
+
+1417684830 e:\new folder\new folder (3)\cse225 code for lab final\hash\hash.h
+
+1417684974 source:e:\new folder\new folder (3)\cse225 code for lab final\hash\main.cpp
+	<iostream>
+	"hash.h"
+	"hash.cpp"
+
+1417684842 e:\new folder\new folder (3)\cse225 code for lab final\hash\hash.cpp
+	"hash.h"
+	<math.h>
+	<iostream>
+

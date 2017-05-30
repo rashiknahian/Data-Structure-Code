@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1374605842 source:c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\stacktypell\main.cpp
+	<iostream>
+	"StackTypeLL.h"
+
+1374605678 c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\stacktypell\stacktypell.h
+	<iostream>
+	<cstddef>
+	"StackTypeLL.cpp"
+
+1374605678 c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\stacktypell\stacktypell.cpp
+	"StackTypeLL.h"
+
+1374605678 source:c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\stacktypell\stacktypell.cpp
+	"StackTypeLL.h"
+
+1374605842 source:e:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\stacktypell\main.cpp
+	<iostream>
+	"StackTypeLL.h"
+
+1374605678 e:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\stacktypell\stacktypell.h
+	<iostream>
+	<cstddef>
+	"StackTypeLL.cpp"
+
+1374605678 e:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\stacktypell\stacktypell.cpp
+	"StackTypeLL.h"
+
+1374605678 source:e:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\stacktypell\stacktypell.cpp
+	"StackTypeLL.h"
+
+1374605844 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\stacktypell\main.cpp
+	<iostream>
+	"StackTypeLL.h"
+
+1374605678 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\stacktypell\stacktypell.h
+	<iostream>
+	<cstddef>
+	"StackTypeLL.cpp"
+
+1374605678 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\stacktypell\stacktypell.cpp
+	"StackTypeLL.h"
+
+1374605678 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\stacktypell\stacktypell.cpp
+	"StackTypeLL.h"
+

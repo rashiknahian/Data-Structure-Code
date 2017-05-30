@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1377689714 source:c:\users\vadar\documents\codes\bst\main.cpp
+	<iostream>
+	"BST.h"
+
+1376871896 c:\users\vadar\documents\codes\bst\bst.h
+	"BST.cpp"
+
+1377698880 c:\users\vadar\documents\codes\bst\bst.cpp
+	"BST.h"
+	<iostream>
+
+1377698880 source:e:\back up 2014\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\bst\bst.cpp
+	"BST.h"
+	<iostream>
+
+1376871896 e:\back up 2014\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\bst\bst.h
+	"BST.cpp"
+
+1377698880 e:\back up 2014\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\bst\bst.cpp
+	"BST.h"
+	<iostream>
+
+1377689714 source:e:\back up 2014\desktop\class work\spring 2014\cse 225\lab problems\!!!!!!!!!!!!!!!!!!!!\bst\main.cpp
+	<iostream>
+	"BST.h"
+
+1377698880 source:f:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\bst\bst.cpp
+	"BST.h"
+	<iostream>
+
+1376871896 f:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\bst\bst.h
+	"BST.cpp"
+
+1377698880 f:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\bst\bst.cpp
+	"BST.h"
+	<iostream>
+
+1377689714 source:f:\lecture sheet collection\cse225 lab iha\old document\befor sohan\!!!!!!!!!!!!!!!!!!!!\bst\main.cpp
+	<iostream>
+	"BST.h"
+

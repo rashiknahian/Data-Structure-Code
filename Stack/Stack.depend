@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1393444912 source:c:\users\sohan\desktop\documents\stack\main.cpp
+	<iostream>
+	"stack.h"
+
+1393444914 
+
+1393445249 source:c:\users\sohan\desktop\documents\stack\stack.cpp
+	"stack.h"
+	<iostream>
+
+1393445250 
+
+1393444713 c:\users\sohan\desktop\documents\stack\stack.h
+	"itemtype.h"
+
+1393444714 h"
+
+1393444835 c:\users\sohan\desktop\documents\stack\itemtype.h
+
+1393444032 source:c:\users\sohan\desktop\documents\stack\itemtype.cpp
+	<iostream>
+	"itemtype.h"
+
+1393444912 source:c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\lab 6 (stack)\stack\main.cpp
+	<iostream>
+	"stack.h"
+
+1393444713 c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\lab 6 (stack)\stack\stack.h
+	"itemtype.h"
+
+1393444835 c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\lab 6 (stack)\stack\itemtype.h
+
+1393445249 source:c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\lab 6 (stack)\stack\stack.cpp
+	"stack.h"
+	<iostream>
+
+1393444032 source:c:\users\sohan\desktop\class work\spring 2014\cse 225\lab problems\lab 6 (stack)\stack\itemtype.cpp
+	<iostream>
+	"itemtype.h"
+
+1393444032 source:e:\back up 2014\desktop\class work\spring 2014\cse 225\lab problems\lab 6 (stack)\stack\itemtype.cpp
+	<iostream>
+	"itemtype.h"
+
+1393444835 e:\back up 2014\desktop\class work\spring 2014\cse 225\lab problems\lab 6 (stack)\stack\itemtype.h
+
+1393444912 source:e:\back up 2014\desktop\class work\spring 2014\cse 225\lab problems\lab 6 (stack)\stack\main.cpp
+	<iostream>
+	"stack.h"
+
+1393444713 e:\back up 2014\desktop\class work\spring 2014\cse 225\lab problems\lab 6 (stack)\stack\stack.h
+	"itemtype.h"
+
+1393445249 source:e:\back up 2014\desktop\class work\spring 2014\cse 225\lab problems\lab 6 (stack)\stack\stack.cpp
+	"stack.h"
+	<iostream>
+
+1393444032 source:e:\lecture sheet collection\cse225 lab iha\old document\sohan\lab 6 (stack)\stack\itemtype.cpp
+	<iostream>
+	"itemtype.h"
+
+1393444835 e:\lecture sheet collection\cse225 lab iha\old document\sohan\lab 6 (stack)\stack\itemtype.h
+
+1393444912 source:e:\lecture sheet collection\cse225 lab iha\old document\sohan\lab 6 (stack)\stack\main.cpp
+	<iostream>
+	"stack.h"
+
+1393444713 e:\lecture sheet collection\cse225 lab iha\old document\sohan\lab 6 (stack)\stack\stack.h
+	"itemtype.h"
+
+1393445249 source:e:\lecture sheet collection\cse225 lab iha\old document\sohan\lab 6 (stack)\stack\stack.cpp
+	"stack.h"
+	<iostream>
+
+1393444034 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\stack\itemtype.cpp
+	<iostream>
+	"itemtype.h"
+
+1393444836 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\stack\itemtype.h
+
+1393444914 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\stack\main.cpp
+	<iostream>
+	"stack.h"
+
+1393444714 f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\stack\stack.h
+	"itemtype.h"
+
+1393445250 source:f:\lecture sheet collection\cse225 lab iha\code\cse225 code till mid\stack\stack.cpp
+	"stack.h"
+	<iostream>
+
+1422469004 source:/Users/rashik.nahian/Downloads/CSE225 code of IHA/Code till Mid/Stack/itemtype.cpp
+	<iostream>
+	"itemtype.h"
+
+1422469008 /Users/rashik.nahian/Downloads/CSE225 code of IHA/Code till Mid/Stack/itemtype.h
+
+1422469012 source:/Users/rashik.nahian/Downloads/CSE225 code of IHA/Code till Mid/Stack/main.cpp
+	<iostream>
+	"stack.h"
+
+1422469024 /Users/rashik.nahian/Downloads/CSE225 code of IHA/Code till Mid/Stack/stack.h
+	"itemtype.h"
+
+1422469018 source:/Users/rashik.nahian/Downloads/CSE225 code of IHA/Code till Mid/Stack/stack.cpp
+	"stack.h"
+	<iostream>
+
